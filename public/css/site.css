@@ -1,0 +1,11 @@
+.content-area {
+    margin-top: 70px;
+}
+.password-generator-area {
+    border: 1px solid #eee;
+    padding: 20px;
+}
+.generated-password {
+    margin-top: 30px;
+    font-size: 36px;
+}
